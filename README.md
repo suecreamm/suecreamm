@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ## Works
-🔮 [Carbon Nanotubes Geometry Generator for VASP](https://sue-creator.github.io/cnt_generator/)
+<a href="https://sue-creator.github.io/cnt_generator/" target="_blank" rel="noopener noreferrer">🔮 Carbon Nanotubes Geometry Generator for VASP</a>
+
 
 
 <!--
