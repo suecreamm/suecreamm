@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## Works
+🔮 [Carbon Nanotubes Geometry Generator for VASP](https://sue-creator.github.io/cnt_generator/)
+
+
 <!--
 **sue-creator/sue-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
