@@ -2,7 +2,8 @@
 
 # Works
 ## Carbon Nanotubes Generator 
-![Carbon Nanotubes Generator Demonstration](https://github.com/sue-creator/cnt_generator/raw/main/readmeImg.png)
+
+[![Carbon Nanotubes Generator Demonstration](https://github.com/sue-creator/cnt_generator/raw/main/readmeImg.png)](https://youtube.com/watch?v=0635k6-32jk&feature=shares)
 <br>You can generate CNTs' 3D model through your web browser right away. <br>
 - No Installation
 - With the Least Inputs
