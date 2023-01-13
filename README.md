@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Sue-creator's GitHub stats](github-readme-stats-gules-seven.vercel.app/api?username=sue-creator)](https://github.com/sue-creator/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sue-creator.vercel.app/api/top-langs/?username=sue-creator&exclude_repo=github-readme-stats,sue-creator.github.io&hide=css,html,scss,javascript)](https://github.com/anuraghazra/github-readme-stats)
 
 # Works
 ## Carbon Nanotubes Generator 
