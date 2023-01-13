@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sue-creator&layout=compact)](https://github.com/sue-creator/github-readme-stats)
+
 # Works
 ## Carbon Nanotubes Generator 
 
