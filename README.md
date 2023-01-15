@@ -18,8 +18,6 @@ No one wants to install a program that is only used every once in a while and fo
 - The Easiest to Use
 - The Most Accessible to Anyone
 
-- Main Calculation Code: https://github.com/sue-creator/cnt_generator/blob/main/assets/js/util.js
-
 
 
 
