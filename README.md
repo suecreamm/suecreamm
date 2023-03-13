@@ -16,7 +16,7 @@ No one wants to install a program that is only used every once in a while and fo
 - No Installation
 - With the Least Number of Inputs
 - The Easiest to Use
-- The Most Accessible to Anyone
+- The Most Accessible
 
 
 
