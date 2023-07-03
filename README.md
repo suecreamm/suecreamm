@@ -12,7 +12,7 @@
 <br><br>
 <a href="https://sue-creator.github.io/cnt_generator/" target="_blank" rel="noopener noreferrer">Go to the Web Generator⭐</a><br>
 
-### Concepts
+### Values
 No one wants to install a program that is only used every once in a while and for a short period of time. This generates CNTs' atmoic structures right away through your web browser. No installation is needed! 
 - No Installation
 - With the Least Number of Inputs
