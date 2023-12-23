@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Most Used Languages](https://github-readme-stats-7vtezbsie-suecreamm.vercel.app/api/top-langs/?username=suecreamm&exclude_repo=github-readme-stats,suecreamm.github.io&hide=css,html,scss,javascript&layout=compact)](https://github.com/suecreamm/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats-git-master-suecreamm.vercel.app/api/top-langs/?username=suecreamm&exclude_repo=github-readme-stats,suecreamm.github.io&hide=css,html,scss,javascript&layout=compact)](https://github.com/suecreamm/github-readme-stats)
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
 
