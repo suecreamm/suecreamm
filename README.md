@@ -13,7 +13,7 @@
 <a href="https://suecreamm.github.io/cnt_generator/" target="_blank" rel="noopener noreferrer">Go to the Web Generator⭐</a><br>
 
 ### Values
-No one wants to install a program that is only used every once in a while and for a short period of time. This generates the atmoic structures of CNTs right away through your web browser.
+No one wants to install a program that is only used every once in a while and for a short period of time. With just a few clicks, this generates the atmoic structures of CNTs instantly from your web browser.
 
 These are its main features.
 - No Installation
