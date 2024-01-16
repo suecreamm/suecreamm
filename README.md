@@ -1,4 +1,3 @@
-### Hi there 👋
 
 [![Most Used Languages](https://github-readme-stats-kappa-hazel.vercel.app/api/top-langs/?username=suecreamm&exclude_repo=github-readme-stats,suecreamm.github.io&hide=css,html,scss,javascript,jupyter%20notebook&layout=compact)](https://github.com/suecreamm/github-readme-stats)
 <!--jupyter%20notebook-->
