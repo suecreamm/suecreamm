@@ -7,7 +7,7 @@
 ## VESTA Tutorial
 ![VESTA Tutorial Thumbnail](https://github.com/suecreamm/imgPreviews/blob/main/collage.jpg?raw=true)
 <br>
-[PDF](https://1drv.ms/b/s!AoGDikR505MxwRnVjkXdWo13qFjZ?e=dmWudI)
+[[PDF]](https://1drv.ms/b/s!AoGDikR505MxwRnVjkXdWo13qFjZ?e=dmWudI)
 <br><br>
 
 ## Carbon Nanotubes Generator 
