@@ -1,7 +1,7 @@
 
 [![Most Used Languages](https://github-readme-stats-kappa-hazel.vercel.app/api/top-langs/?username=suecreamm&exclude_repo=github-readme-stats,suecreamm.github.io&hide=css,html,scss,javascript,jupyter%20notebook&layout=compact)](https://github.com/suecreamm/github-readme-stats)
 <!--jupyter%20notebook-->
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"> 
 
 # Works
 ## VESTA Tutorial
